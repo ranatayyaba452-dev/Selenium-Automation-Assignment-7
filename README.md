@@ -20,10 +20,11 @@ https://www.saucedemo.com/
 
 ## Project Structure
 
+ ## Project Structure
+
+```text
 Selenium-Automation/
-│
 ├── pom.xml
-│
 └── src/
     ├── main/
     │   └── java/
@@ -40,6 +41,8 @@ Selenium-Automation/
             └── tests/
                 ├── LoginTest.java
                 └── ProductTest.java
+```
+
 
 ## Test Scenarios
 
