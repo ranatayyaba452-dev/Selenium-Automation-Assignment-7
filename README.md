@@ -110,3 +110,10 @@ This project implements the required Selenium automation tasks using Java, Selen
 ## Author
 
 LAIBA
+
+## References
+
+- Selenium WebDriver
+- TestNG
+- Maven
+- 10Pearls University Automation with Selenium WebDriver & TestNG
